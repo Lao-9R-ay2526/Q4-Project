@@ -1,0 +1,8 @@
+.container {
+    -webkit-box-shadow: 6px 3px 7px -1px rgba(0,0,0,0.73); 
+    box-shadow: 6px 3px 7px -1px rgba(0,0,0,0.73);
+}
+body {
+    background-image: url(white.jpg);
+    background-size: cover;
+}
