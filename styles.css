@@ -44,11 +44,6 @@ body {
     margin: 15px auto 20px auto;
 }
 
-.file-box {
-    font-size: 13px;
-    max-width: 100%;
-}
-
 .right {
     float: right;
     width: 55%;
