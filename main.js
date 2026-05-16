@@ -7,4 +7,11 @@ function startLogin() {
     } else {
         alert("Error: check username or password length");
     }
+
+    if (user !== "" && pass.length >= 5) {
+    window.location.href = "dashboard.html";
+} 
+    else {
+    alert("Error: Invalid credentials");
+}
 }
