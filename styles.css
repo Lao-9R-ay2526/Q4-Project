@@ -6,3 +6,61 @@ body {
     background-image: url(white.jpg);
     background-size: cover;
 }
+
+        body {
+            background-color: #ffffff;
+            padding: 10px;
+        }
+
+        .container {
+            width: 500px;
+            background-color: #f7f9fa;
+            padding: 30px;
+        }
+
+        .left {
+            float: left;
+            width: 40%;
+        }
+
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            background-color: #4cd3e3;
+            border-radius: 50%;
+            border: 2px;
+            margin: 50px;
+        }
+
+
+        .right {
+            float: right;
+            width: 50%;
+        }
+
+        .card {
+            background-color: rgb(255, 255, 255);
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+
+        .label {
+            font-size: 12px;
+            margin: 15px 2px 0;
+        }
+
+        .value {
+            font-size: 15px;
+            color: #373737;
+        }
+
+        .btn {
+            background-color: #4cd3e3;
+            color: rgb(0, 0, 0);
+            width: 100%;
+            padding: 5px;
+            margin-top: 15px;
+            font-size: 14px;
+        }
