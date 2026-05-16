@@ -16,11 +16,6 @@ body {
     height: auto;
 }
 
-.active-link {
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 5px;
-}
-
 .container-box {
     width: 680px;
     background-color: #f7f9fa;
