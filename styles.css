@@ -44,7 +44,7 @@ body {
     margin: 15px auto 20px auto;
 }
 
-.file-boxn{
+.file-box {
     font-size: 13px;
     max-width: 100%;
 }
@@ -61,7 +61,7 @@ body {
     box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-.info-card h2 {
+h2 {
     margin: 0 0 15px 0;
     font-size: 22px;
     color: #222222;
