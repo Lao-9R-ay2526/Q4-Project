@@ -29,7 +29,7 @@ body {
     box-shadow: 6px 3px 15px -1px rgba(0, 0, 0, 0.25);
 }
 
-.left-section {
+.left {
     float: left;
     width: 40%;
     text-align: center;
@@ -49,7 +49,7 @@ body {
     max-width: 100%;
 }
 
-.right-section {
+.right {
     float: right;
     width: 55%;
 }
