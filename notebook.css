@@ -1,1 +1,24 @@
+.content-wrapper {
+    padding: 40px;
+}
 
+.notebook {
+    border-radius: 15px; 
+    padding: 20px; 
+    text-align: center;
+    height: 100%; 
+    
+    background: #FFEFBA; 
+    background: linear-gradient(135deg, #FFEFBA 0%, #FFFFFF 60%); 
+    box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.4); 
+
+}
+
+.notebook-cover {
+    max-width: 100%;
+    height: auto;
+    max-height: 160px; 
+    object-fit: contain;
+    border-radius: 10px;
+    margin: 10px 0;
+}
